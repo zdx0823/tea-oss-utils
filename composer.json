@@ -1,6 +1,6 @@
 {
     "name": "zdx0823/tea-oss-utils",
-    "description": "Alibaba Cloud Tea OSS Utils Library for PHP",
+    "description": "此包除了以下部分其他与alibabacloud/tea-oss-utils一致, 不同处请看readme.md文件",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
