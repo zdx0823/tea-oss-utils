@@ -9,7 +9,7 @@ English | [简体中文](README-CN.md)
 ### Composer
 
 ```bash
-composer require alibabacloud/tea-oss-utils
+composer require zdx0823/tea-oss-utils
 ```
 
 ## Issues
